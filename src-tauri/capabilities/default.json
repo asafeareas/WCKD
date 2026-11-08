@@ -1,0 +1,7 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "Permissões mínimas da janela principal. Diálogos de arquivo são abertos pelo backend Rust.",
+  "windows": ["main"],
+  "permissions": ["core:default"]
+}
