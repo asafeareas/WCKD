@@ -11,6 +11,7 @@
 ![Tauri 2](https://img.shields.io/badge/Tauri-2-111111?style=for-the-badge&logo=tauri&logoColor=FFC131)
 ![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/React-19-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![Licença MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-FFFF00?style=for-the-badge&labelColor=111111)](LICENSE)
 
 [**⬇ Baixar o instalador**](https://github.com/asafeareas/WCKD/releases/latest) · [Funcionalidades](#-funcionalidades) · [Instalação](#-instalação) · [Desenvolvimento](#-desenvolvimento)
 
@@ -173,3 +174,7 @@ docs/                    arquitetura, regras de negócio, decisões
 - [Regras de negócio](docs/business-rules.md): como saldo, parcelas, recorrências e análises são calculados.
 - [Arquitetura](docs/architecture.md): decisões técnicas, banco de dados e backup.
 - [Histórico de decisões](docs/decisions.md)
+
+## 📄 Licença
+
+Distribuído sob a [licença MIT](LICENSE). Você pode usar, copiar, modificar e distribuir à vontade, desde que mantenha o aviso de copyright.

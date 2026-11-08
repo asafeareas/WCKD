@@ -3,6 +3,8 @@ name = "wckd"
 version = "0.1.0"
 description = "WCKD — gerenciador financeiro pessoal"
 authors = ["asafe"]
+license = "MIT"
+repository = "https://github.com/asafeareas/WCKD"
 edition = "2021"
 rust-version = "1.85"
 
